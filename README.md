@@ -1,7 +1,7 @@
 # Datacamp
 I'll be uploading my completed Datacamp projects in this repository.
 
-My 1st DataCamp project is ---->> "Generating Keywords for Google Ads".
+1st project ---->> "Generating Keywords for Google Ads".
 
 2nd project ---->> "Analyze International debt Statistics".
 
